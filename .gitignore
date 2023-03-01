@@ -1,6 +1,6 @@
 
 .DS_Store
 .gitattributes
-*.json
 .next/*
 node_modules/*
+.vscode/settings.json
